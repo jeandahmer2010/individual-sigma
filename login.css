@@ -5,7 +5,7 @@ body{
 }   
 header {
     grid-area: cabeca;
-    background-color: rgb(34, 221, 180);
+    background-color: rgb(116, 0, 248);
     margin: -2%;
 }
 .logoo{
