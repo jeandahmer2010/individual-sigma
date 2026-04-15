@@ -1,0 +1,52 @@
+body{
+    justify-content: center;
+    background-color: whitesmoke;
+    margin: 2%;
+}   
+header {
+    grid-area: cabeca;
+    background-color: rgb(34, 221, 180);
+    margin: -2%;
+}
+.logoo{
+    height: auto;
+    width: 100px;
+}
+.letra {
+    font-size: xx-large;
+    text-align: center;
+}
+@media only screen and (max-width: 900px) {
+    body {
+        grid-template-areas:
+            "cabeca"
+            "corpo"
+            "peh";
+        grid-template-rows: 100px auto 100px;
+        grid-template-columns: auto;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        grid-template-areas:
+            "cabeca"
+            "corpo"
+            "peh";
+        grid-template-rows: 100px auto 100px;
+        grid-template-columns: auto;
+    }
+
+    aside {
+        display: none;
+    }
+}  
+main{
+    justify-content: center;
+    height: 400px;
+    font-size: large;
+}
+.loginn{
+    text-align: center;
+    margin-top: 20%;
+}
