@@ -54,6 +54,12 @@ footer {
     text-align: center;
 }
 
+.sobree{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
 .logoo{
     height: auto;
     width: 100px;
