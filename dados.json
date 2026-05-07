@@ -1,0 +1,57 @@
+[
+    {
+            "imagem": "bleach.ngl.png",
+            "nome": "volume 1 bleach",
+            "descricao": "manga edicao especial bleach volume 1",
+            "preco": "R$150",
+            "endereco": "produto.html"
+    },
+
+    {
+            "imagem": "ado.png.png",
+            "nome": "pelucia ado",
+            "descricao": "pelucia ado 15 cm",
+            "preco": "R$75",
+            "endereco": "produto.html"
+    },
+
+    {
+            "imagem": "chibi.png.png",
+            "nome": "beatrice chibi",
+            "descricao": "beatrice chibi 10cm",
+            "preco": "R$250",
+            "endereco": "produto.html"
+    },
+
+    {
+            "imagem": "okarun.png.png",
+            "nome": "funko pop okarun",
+            "descricao": "funko pop okarun edicao colecionador ",
+            "preco": "R$150",
+            "endereco": "produto.html"
+    },
+
+    {
+            "imagem": "marin.png.png",
+            "nome": "peruca marin",
+            "descricao": "peruca personagem marin kitagawa m dress up darling ",
+            "preco": "R$300",
+            "endereco": "produto.html"
+    },
+
+    {
+            "imagem": "adao.png.png",
+            "nome": "figure adao",
+            "descricao": "figure adao 25cm edicao colecionador",
+            "preco": "R$250",
+            "endereco": "produto.html"
+    },
+
+    {
+            "imagem": "your.name.png",
+            "nome": "quadro your name",
+            "descricao": "quadro tematico your name 3 peças",
+            "preco": "R$50",
+            "endereco": "produto.html"
+    }
+]
